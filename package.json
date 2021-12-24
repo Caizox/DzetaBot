@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "discord.js": "^13.4.0",
+    "dotenv": "^10.0.0"
+  },
+  "name": "bot-discord",
+  "description": "��#\u0000 \u0000d\u0000z\u0000e\u0000t\u0000a\u0000-\u0000b\u0000o\u0000t\u0000-\u0000v\u0000a\u0000l\u0000o\u0000\r\u0000 \u0000",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caizox/dzeta-bot-valo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caizox/dzeta-bot-valo/issues"
+  },
+  "homepage": "https://github.com/Caizox/dzeta-bot-valo#readme"
+}
